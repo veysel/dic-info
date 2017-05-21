@@ -1,0 +1,373 @@
+{
+    "dic": [
+        {
+            "code": "dic1",
+            "name": "Doğa İçin Çal 1",
+            "song": "Divane Aşık Gibi",
+            "year": "2009",
+            "director": "Fırat Çavaş",
+            "artist": [
+                {
+                    "name": "Aytaç Bayladı",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Ezgi Özcan",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Tayfun Turan",
+                    "country": "Türkiye",
+                    "city": "Trabzon",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Emir Yaşar",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Akın Vardar",
+                    "country": "Türkiye",
+                    "city": "Tekirdağ",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Mertkan D. Yılmazer",
+                    "country": "Türkiye",
+                    "city": "Kastamonu",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Emrah Demiralp",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Fırat Çavaş",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Tolga Kıyak",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Güray Özcan",
+                    "country": "Türkiye",
+                    "city": "Tekirdağ",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Ozan Tügen",
+                    "country": "Türkiye",
+                    "city": "Antalya",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Özlem Türay",
+                    "country": "Türkiye",
+                    "city": "İzmir",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Aslı",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Deniz Gökçeler",
+                    "country": "Türkiye",
+                    "city": "İzmit",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Cemre Kabaş",
+                    "country": "Türkiye",
+                    "city": "Sinop",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Kutsal",
+                    "country": "Türkiye",
+                    "city": "Bursa",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Nejdet Parlar",
+                    "country": "Türkiye",
+                    "city": "İzmit",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Aydinç Kişin",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Bora Yalçınduran",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Yiğit Özdemir",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Barbaros Cinpir",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Serkan Çevik",
+                    "country": "Türkiye",
+                    "city": "Tokat",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Fatih Ertür",
+                    "country": "Kıbrıs",
+                    "city": "-",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Ersan Özcan",
+                    "country": "Türkiye",
+                    "city": "Trabzon",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Muhammet Ali Şengün",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Sinan Keskin",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Can Şengün",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Bestem Yuvarlak",
+                    "country": "Türkiye",
+                    "city": "Aydın",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Yasemin Altuğ",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Ayça Işıldar",
+                    "country": "Türkiye",
+                    "city": "Bursa",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Esma Er",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Ayşegül Şirin",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Begüm Günceler",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Özgür Kankaynar",
+                    "country": "Türkiye",
+                    "city": "Bursa",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Serdar Öztop",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Emrah Çokünlü",
+                    "country": "Türkiye",
+                    "city": "Kastamonu",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Cana Çankaya",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Utku Yerebakan",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Murat Evgin",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Mehmet Can Narin",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Ramadan",
+                    "country": "Türkiye",
+                    "city": "Eskişehir",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Burak Şahin",
+                    "country": "Türkiye",
+                    "city": "Konya",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Bilge Kösebalaban",
+                    "country": "Türkiye",
+                    "city": "Adana",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Emrah Karaca",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                },
+                {
+                    "name": "Lütfü Evin",
+                    "country": "Türkiye",
+                    "city": "İstanbul",
+                    "project": [
+                        "Doğa İçin Çal 1"
+                    ]
+                }
+            ]
+        }
+    ]
+}
