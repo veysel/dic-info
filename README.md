@@ -31,7 +31,7 @@ public class Dic
 {
     public string code { get; set; }
     public string name { get; set; }
-    public string song { get; set; }
+    public List<string> song { get; set; }
     public string year { get; set; }
     public string director { get; set; }
     public List<Artist> artist { get; set; }
