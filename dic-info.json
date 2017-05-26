@@ -3,7 +3,9 @@
         {
             "code": "dic1",
             "name": "Doğa İçin Çal 1",
-            "song": "Divane Aşık Gibi",
+            "song": [
+                "Divane Aşık Gibi"
+            ],
             "year": "2009",
             "director": "Fırat Çavaş",
             "artist": [
@@ -417,7 +419,9 @@
         {
             "code": "dic2",
             "name": "Doğa İçin Çal 2",
-            "song": "Uzun İnce Bir Yoldayım",
+            "song": [
+                "Uzun İnce Bir Yoldayım"
+            ],
             "year": "2010",
             "director": "Fırat Çavaş",
             "artist": [
@@ -1049,7 +1053,11 @@
         {
             "code": "dic3",
             "name": "Doğa İçin Çal 3",
-            "song": "Gesi Bağları, Çemberimde Gül Oya, Çayelinden Öteye",
+            "song": [
+                "Gesi Bağları",
+                "Çemberimde Gül Oya",
+                "Çayelinden Öteye"
+            ],
             "year": "2011",
             "director": "Fırat Çavaş",
             "artist": [
@@ -1683,7 +1691,11 @@
         {
             "code": "dic4",
             "name": "Doğa İçin Çal 4",
-            "song": "Selvi Boylum Al Yazmalım, Çiçek Abbas, Devlerin Aşkı",
+            "song": [
+                "Selvi Boylum Al Yazmalım",
+                "Çiçek Abbas",
+                "Devlerin Aşkı"
+            ],
             "year": "2012",
             "director": "Fırat Çavaş",
             "artist": [
@@ -2073,7 +2085,9 @@
         {
             "code": "dic5",
             "name": "Doğa İçin Çal 5",
-            "song": "Bitliste Beş Minare",
+            "song": [
+                "Bitliste Beş Minare"
+            ],
             "year": "2013",
             "director": "Fırat Çavaş",
             "artist": [
@@ -2477,7 +2491,9 @@
         {
             "code": "dic6",
             "name": "Doğa İçin Çal 6",
-            "song": "Çökertme, Ateş Attım Samana",
+            "song": [
+                "Çökertme, Ateş Attım Samana"
+            ],
             "year": "2015",
             "director": "Fırat Çavaş",
             "artist": [
@@ -3076,7 +3092,9 @@
         {
             "code": "dic7",
             "name": "Doğa İçin Çal 7",
-            "song": "Havada Bulut Yok",
+            "song": [
+                "Havada Bulut Yok"
+            ],
             "year": "2016",
             "director": "Fırat Çavaş",
             "artist": [
@@ -3412,7 +3430,9 @@
         {
             "code": "dic8",
             "name": "Doğa İçin Çal 8",
-            "song": "Hayde",
+            "song": [
+                "Hayde"
+            ],
             "year": "2017",
             "director": "Fırat Çavaş",
             "artist": [
